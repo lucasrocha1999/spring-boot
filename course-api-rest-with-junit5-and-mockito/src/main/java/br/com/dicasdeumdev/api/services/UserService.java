@@ -1,4 +1,4 @@
-package br.com.dicasdeumdev.api.service;
+package br.com.dicasdeumdev.api.services;
 
 import br.com.dicasdeumdev.api.domain.User;
 
